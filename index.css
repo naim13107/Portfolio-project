@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+   
+}
+
+
+.navbar-logo{
+    width:100px;
+    height:100px;
+}
+
+h6{
+    color: white;
+}
+
+.btn{
+    background-color: aqua;
+    color: black;
+
+}
+
+.btn:hover{
+    background-color: rgb(27, 111, 132);
+}
+
+a{  
+     text-decoration: none;
+     color: inherit;
+}
+
+.dp {
+    width: 100%;
+    max-width: 350px;  
+    border-radius: 50%;
+}
+
+.fa-brands{
+    font-size: 40px;
+    color: aqua;
+}
+ .form-control::placeholder {
+    color: #bbb;
+    opacity: 1;
+  }
+
+hr{
+    color: aliceblue;
+}
